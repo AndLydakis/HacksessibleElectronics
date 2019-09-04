@@ -11,7 +11,7 @@ Feel free to fork the repository and modify the source code for your own project
     * [Intermediate](resources/tutorials/starter_kit_manual.pdf)
     * [In Depth](resources/tutorials/arduino_in_depth_1.pdf)
     * [In Depth #2](resources/tutorials/arduino_in_depth_2.pdf) 
-* [Using The Libraries]()
+* [Using The Hacksessible Libraries]()
 * [Getting On Slack]()
 
 ### Join Us on Slack !
