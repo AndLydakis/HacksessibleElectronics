@@ -16,8 +16,8 @@ Feel free to fork the repository and modify the source code for your own project
 
 ### Join Us on Slack !
 ![Slack Logo](resources/images/slack.png)
-* [Hacksessible Electronics Slack Channel](https://get.slack.help/hc/en-gb/articles/218080037-Getting-started-for-new-members)
-
+* [Hacksessible Electronics Slack Channel](https://app.slack.com/client/TQQAR2RPE/CQT14UK3Q)
+* [Click Here to Join](https://join.slack.com/t/hackcessibleworkspace/shared_invite/enQtODQwODI5NDMxMTA0LTk3NzM0MjlkZjZhYTk0ZTY3YzUzMTVmMWRkZTRkNGJmYTdmZDM3ZDk2ZDVkNzFjY2ZiNjg3NzgyZGIxODAyMDM)
 ### Useful links
 * [Hacksessible Website](https://www.hackcessible.org/)  
 
